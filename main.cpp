@@ -49,7 +49,7 @@ int main() {
     string palabra;
     int i =0;
     for (char c : linea) {
-        if (c == ';') {
+        if (c == ' ') {
             notas[i] = palabra;
             palabra = "";
             i++;
