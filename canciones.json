@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Aleluya Modelo 3",
+
+        "autor": "----",
+
+        "tono_original": "Mi menor",
+
+        "video": "https://www.youtube.com/watch?v=XXXXXXXX",
+
+        "lineas": [
+
+            {
+                "notas": " sol la si - la sol \n fa# sol la - sol fa# \n sol fa# mi re mi \n\nsol-la-si-la-sol",
+                "letra": "Aleluya"
+            },
+            {
+                "notas": "fa# sol la - sol fa#",
+                "letra": "Aleluya"
+            },
+            {
+                "notas": "sol fa# mi re mi",
+                "letra": "Aleluya\n"
+            },
+            {
+                "notas": "mi ---- re mi --- mi re ------- re mi re fa# mi ",
+                "letra": "Yo soy la vid, vosotros los sarmientos"
+            },
+            {
+                "notas": "fa# sol --- fa sol --- fa sol",
+                "letra": "El que permanece en mi y yo en el"
+            },
+            {
+                "notas": "fa# mi fa# mi fa mi mi",
+                "letra": "ése da fruto abundante"
+            }
+        ]
+    }
+]

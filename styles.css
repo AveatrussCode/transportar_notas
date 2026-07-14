@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F0FFFF;
+}
+/*Aqui es la parte de la cabesera*/
+nav {
+    display: flex;
+    width: 100%;
+    background-color:rgb(255,255,255) ;
+    position: fixed;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text_icon{
+    width: 30%;
+}
+
+.icono {
+    width: 7%;
+    height: 100%;
+}
+.seleccion{
+    display: flex;
+    align-items: center;
+    gap: 4%;
+}
+
+/*Aqui es la parte del cuerpo*/
+header {
+    padding-top: 10vw;
+    background-color: aqua;
+    height: 20vw;
+    text-align: center;
+    align-items: center;
+}
+
+main {
+    padding-top: 2vw;
+    display: flex;
+    padding-left: 5%;
+    width: 100%;
+    gap: 4%;
+}
+.ParteDondeEstaLaCancion{
+    display:inline ;
+    width: 70%;
+    background-color: #FFF8DC;
+
+}
+.cabeceraCancion{
+    width: 15%;
+    position: fixed;
+
+}
